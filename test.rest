@@ -1,0 +1,14 @@
+GET  http://localhost:8888/employees
+
+###
+
+PUT https://serverless-apis.netlify.app/employees/6420ef19bab965dc0a2a0190
+Content-Type: application/json
+
+{
+    "designation":"Software Engineer Trainee"
+}
+
+
+###
+GET https://apis-quiz.netlify.app/data
