@@ -1,0 +1,18 @@
+nav {
+  background-color: rgb(82, 146, 199);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+nav div {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+nav div a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  color: #fff;
+}

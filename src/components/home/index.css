@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.container h1{
+    font-size: 50px;
+    text-align: center;
+}
